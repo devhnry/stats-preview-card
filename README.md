@@ -30,7 +30,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Stats-Preview-Card (TailwindCSS + Vite)]()
+- Solution URL: [Stats-Preview-Card (TailwindCSS + Vite)](https://www.frontendmentor.io/solutions/statspreviewcard-tailwindcss-vite-wBxUJyfK7M)
 - Live Site URL: [Netlify App | https://stats-preview-card234.netlify.app/](https://stats-preview-card234.netlify.app/)
 
 <br>
